@@ -17,5 +17,5 @@ showonlyimage = false
 
 [<img src="../../img/portfolio/Liza.png" width="49%"    alt="Liza"    align="left" vspace="10" />]
 (https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/liza/)
-[<img src="../../img/portfolio/Artem.png" width="49%"    alt="Artem"    align="left" vspace="10" />]
+[<img src="../../img/portfolio/Artem.png" width="49%"    alt="Artem"    align="right" vspace="10" />]
 (https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/artem/)
