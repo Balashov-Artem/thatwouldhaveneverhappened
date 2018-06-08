@@ -1,8 +1,8 @@
-#baseURL = "http://example.org/"
+# baseURL = "http://example.org/"
 baseURL = "https://balashov-artem.github.io/thatwouldhaveneverhappened/"
 publoshDir = "docs"
 languageCode = "en-us"
-title = "Balashov Artem portfolio"
+title = "thatwouldhaveneverhappened"
 theme = "hugo-creative-portfolio-theme"
 
 [params]
