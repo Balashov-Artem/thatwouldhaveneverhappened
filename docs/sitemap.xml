@@ -3,18 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/artem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/liza/</loc>
-  </url>
-  
-  <url>
-    <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/rickard/</loc>
-  </url>
-  
-  <url>
     <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/about/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
@@ -25,13 +13,25 @@
   </url>
   
   <url>
+    <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/artem/</loc>
+  </url>
+  
+  <url>
     <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/liza/</loc>
+  </url>
+  
+  <url>
     <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://balashov-artem.github.io/thatwouldhaveneverhappened/portfolio/rickard/</loc>
   </url>
   
   <url>
